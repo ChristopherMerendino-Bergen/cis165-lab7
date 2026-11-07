@@ -1,7 +1,7 @@
 /******************************************************************************
 Made in OnlineGDB by C.J. Merendino
 Lab 7 - Program 1 - Minimum & Maximum
-This program reads a series of integers until the sentinel value -99 is entered and displays the smallest and largest values entered..
+This program reads a series of integers until the sentinel value -99 is entered and displays the smallest and largest values entered.
 *******************************************************************************/
 #include <iostream>
 using namespace std;
